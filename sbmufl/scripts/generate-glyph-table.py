@@ -12,6 +12,7 @@ print(
 
             .neanes {
                 font-family: Neanes;
+                /* font-size: 20pt; */
                 font-size: 100pt;
             }
 
